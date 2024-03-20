@@ -161,7 +161,7 @@ Look at job resource efficiency using either top or htop
 
 3. Install
 
-4a. Go to top search bar and search:
+4. Go to top search bar and search:
 
 `> Remote-SSH: Add New SSH Host`
 
